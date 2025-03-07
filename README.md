@@ -43,13 +43,37 @@
 
 ---
 
+## 📊 More GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MICHAELRRRXXZ&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MICHAELRRRXXZ&theme=tokyonight" alt="Profile Details" />
+</p>
+
+---
+
+## 🚀 Contributions Overview  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MICHAELRRRXXZ&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MICHAELRRRXXZ&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+## ⚡ Fun Extra  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MICHAELRRRXXZ&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📺 Latest YouTube Videos  
-🎬 Check out my latest videos on [YouTube](https://www.youtube.com/channel/YOUR_CHANNEL_LINK_HERE)!
+##🎬 Check out my latest videos on [YouTube](https://www.youtube.com/channel/YOUR_CHANNEL_LINK_HERE)!
 
 ---
 
 ## 📬 Get in Touch  
 💼 Let's connect! You can reach me at:  
-📧 Email: **your-email@example.com**  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+##📧 Email: **your-email@example.com**  
+##🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 📸 Instagram: [@emeyteam](https://instagram.com/emeyteam)  
