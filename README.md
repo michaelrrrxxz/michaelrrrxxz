@@ -1,3 +1,16 @@
+
+
+## ?p GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MICHAELRRRXXZ&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MICHAELRRRXXZ&theme=tokyonight" alt="Profile Details" />
+  <br/>
+  <img src="https://badges.pufler.dev/years/MICHAELRRRXXZ?style=for-the-badge&color=red&label=Joined%20GitHub" alt="Years on GitHub" />
+</p>
+
+---
+
 <img align="left" alt="Flag of the Philippines" width="30%" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg">  
 
 # 🚀 MICHAELRRRXXZ
@@ -47,16 +60,7 @@
 
 ---
 
-## 📊 More GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MICHAELRRRXXZ&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MICHAELRRRXXZ&theme=tokyonight" alt="Profile Details" />
-  <br/>
-  <img src="https://badges.pufler.dev/years/MICHAELRRRXXZ?style=for-the-badge&color=red&label=Joined%20GitHub" alt="Years on GitHub" />
-</p>
 
----
 
 ## 🚀 Contributions Overview  
 <p align="center">
