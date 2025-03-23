@@ -1,6 +1,13 @@
+## ⚡ Fun Extra  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MICHAELRRRXXZ&theme=tokyonight" alt="GitHub Trophies" />
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+</p>
 
+---
 
-## ?p GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MICHAELRRRXXZ&theme=tokyonight" alt="GitHub Streak" />
   <br/>
@@ -70,14 +77,7 @@
 
 ---
 
-## ⚡ Fun Extra  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MICHAELRRRXXZ&theme=tokyonight" alt="GitHub Trophies" />
-  <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
-</p>
 
----
 
 ## 📺 Latest YouTube Videos  
 🎬 Check out my latest videos on [YouTube](https://www.youtube.com/channel/YOUR_CHANNEL_LINK_HERE)!
